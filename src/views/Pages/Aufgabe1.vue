@@ -31,7 +31,7 @@ const backgroundClass = ref('background')
 
 </script>
  
-<style>
+<style >
   .c-black{
     color: black;
   }

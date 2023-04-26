@@ -1,5 +1,23 @@
 <template>
    Aufgabe 3
+
+   <h1>Color Switcher</h1>
+
+<svg width="100" height="100" viewBox="0 0 100 100">
+   <rect x="0" y="30" width="92" rx="10" height="40" fill="#ffbcbc"/>
+</svg>
+
+<svg width="100" height="100" viewBox="0 0 100 100">
+   <rect x="0" y="30" width="92" rx="10" height="40" fill="#ffbcbc"/>
+   <circle cx="20" cy="50" r="10" stroke="#da4f4f" stroke-width="6" fill="#ad2525" />
+</svg>
+
+<svg width="100" height="100" viewBox="0 0 100 100">
+   <rect x="0" y="30" width="92" rx="10" height="40" fill="#ffbcbc"/>
+   <circle cx="20" cy="50" r="10" stroke="#da4f4f" stroke-width="6" fill="#ad2525" />
+   <text x="45" y="55" fill="red" font-family="Arial, Helvetica" font-weight="bold">M152</text>
+</svg>
+
  </template>
  
  <script setup>
